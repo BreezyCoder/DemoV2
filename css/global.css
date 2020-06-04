@@ -1,0 +1,73 @@
+body,
+html {
+  /*
+  background-image: url("../media/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat !important;
+  */
+  color: black !important;
+  background-color: black !important;
+  cursor: url("../media/sword.png"), auto;
+}
+
+header {
+  background-color: #4c6f8d !important;
+  padding: 1%;
+}
+
+.modal {
+  color: black !important;
+}
+
+.container {
+  color: whitesmoke;
+  background-color: rgba(0, 0, 0, 0.4);
+  margin: 2.5% auto !important;
+  padding: 5%;
+  text-align: center !important;
+}
+
+.logo {
+  margin-top: -1%;
+  width: 100%;
+  z-index: 98;
+}
+
+.products {
+  text-align: center;
+  margin-top: 1%;
+}
+
+.user-control-wrapper {
+  color: black !important;
+}
+
+.card {
+  border: #4c6f8d 1px solid !important;
+  color: black !important;
+  text-align: center;
+}
+
+.card-header {
+  background-color: #4c6f8d !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.card-footer {
+  background-color: #4c6f8d !important;
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 1%;
+}
+
+::-webkit-scrollbar-track {
+  background-color: antiquewhite;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #4c6f8d;
+}

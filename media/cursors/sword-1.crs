@@ -1,0 +1,42 @@
+﻿[Arrow]
+Path=Sword.cur
+
+[Help]
+Path=Sword Help.cur
+
+[AppStarting]
+Path=Sword Working.ani
+
+[Crosshair]
+Path=Sword Prevcion.cur
+
+[IBeam]
+Path=Sword Text.cur
+
+[NWPen]
+Path=Sword Pen.ani
+
+[No]
+Path=Sword No.cur
+
+[SizeNS]
+Path=Sword Vert.cur
+
+[SizeWE]
+Path=Sword Hor.cur
+
+[SizeNWSE]
+Path=Sword Diag 1.cur
+
+[SizeNESW]
+Path=Sword Diag 2.cur
+
+[SizeAll]
+Path=Sword Move.cur
+
+[UpArrow]
+Path=Sword Alt.cur
+
+[Hand]
+Path=Sword Link.ani
+

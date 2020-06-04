@@ -1,0 +1,9 @@
+.cons-wrapper {
+  background-image: url("../media/cons.jpg");
+  background-attachment: fixed;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  margin-top: 5%;
+}

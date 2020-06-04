@@ -1,0 +1,28 @@
+@media only screen and (min-width: 1204px) {
+  .navbar {
+    background-color: #4c6f8d !important;
+    height: 17vh;
+    width: 100%;
+    z-index: 99;
+    transition: height 400ms;
+  }
+
+  .logo {
+    width: 100%;
+    transition: visibility 0s;
+    transition-delay: 125ms;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+  .navbar {
+    background-color: #4c6f8d !important;
+    height: 20%;
+    width: 100%;
+    z-index: 99;
+  }
+
+  .logo {
+    width: 500%;
+  }
+}

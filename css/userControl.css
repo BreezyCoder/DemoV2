@@ -1,0 +1,9 @@
+.user-control-wrapper {
+  text-align: center;
+  text-shadow: cadetblue 1px 1px;
+  background-image: url("../media/banner4.jpg");
+  background-attachment: fixed;
+  background-position: bottom 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
